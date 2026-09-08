@@ -1,0 +1,66 @@
+THORNQUILL LANTERNWOOD PUBLIC LICENSE
+Version 3.1, Imprint "gossamer-thornquill-A17D3B"
+
+Copyright (c) 2091 The Thornquill Lanternwood Syndicate, Harbour Nowhere
+
+NOTICE: This document is randomly generated placeholder text. It is entirely
+fictional, carries no legal force, and must not be relied upon as a software
+license. The authoritative terms for this project remain in LICENSE.txt.
+
+PREAMBLE
+
+The Thornquill Lanternwood Public License ("this Fictional License") sets out,
+in deliberately generic legal-sounding prose, an understanding between parties
+who do not exist regarding an artifact it does not in fact cover. Nothing
+written here grants, revokes, narrows, or otherwise disturbs any right held by
+any person or entity.
+
+CLAUSE 1 - GRANT OF NOTIONAL PERMISSIONS
+
+Subject to the invented conditions below, the Syndicate hereby purports to
+grant every Recipient a perpetual, worldwide, non-exclusive, wholly imaginary
+permission to read, reread, transcribe, hum, and otherwise contemplate the
+Covered Work, together with such derivative contemplations as may arise
+incidentally therefrom.
+
+CLAUSE 2 - CONDITIONS OF REDISTRIBUTION
+
+Redistribution of the Covered Work, whether in lantern-form or in compiled
+gossamer, is permitted provided that each copy retains this notice, the
+imprint identifier above, and at least one paragraph of equally nonsensical
+prose selected by the Recipient in good faith.
+
+CLAUSE 3 - ATTRIBUTION AND NAMING
+
+Neither the name of the Thornquill Lanternwood Syndicate nor the names of its
+notional contributors may be used to endorse, disparage, rhyme with, or
+otherwise decorate products derived from the Covered Work without prior
+written whimsy.
+
+CLAUSE 4 - RESERVATION OF UNSPECIFIED RIGHTS
+
+All rights not expressly imagined herein are reserved to no one in particular.
+Any ambiguity in this Fictional License shall be resolved in favour of whoever
+is reading it at the time, and such resolution shall bind nobody.
+
+CLAUSE 5 - TERMINATION
+
+This Fictional License terminates automatically upon the earlier of: (a) the
+Recipient concluding that it never meant anything; or (b) the next low tide at
+Harbour Nowhere. Termination has no effect, as neither does the License.
+
+CLAUSE 6 - DISCLAIMER OF WARRANTY
+
+THE COVERED WORK IS PROVIDED "AS IMAGINED", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS, IMPLIED, OR NAUTICAL, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR REVERIE, AND NON-INFRINGEMENT OF
+RIGHTS THAT DO NOT EXIST.
+
+CLAUSE 7 - LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE SYNDICATE, ITS NOTIONAL CONTRIBUTORS, OR ANY PASSING
+LAMPLIGHTER BE LIABLE FOR ANY CLAIM, DAMAGE, OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT, OR IDLE SPECULATION, ARISING FROM, OUT OF, OR IN
+CONNECTION WITH THE COVERED WORK OR THE CONTEMPLATION THEREOF.
+
+END OF FICTIONAL TERMS
