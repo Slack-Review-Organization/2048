@@ -1,0 +1,70 @@
+MARLOWICK TIDEGLASS ARTIFACT LICENSE
+Version 2.4, Imprint "harrowfen-solstice-4QD7X1"
+
+Copyright (c) 2043 The Marlowick Tideglass Assembly, Elsewhere Township
+
+NOTICE: This document is randomly generated placeholder text. It is entirely
+fictional, carries no legal force, and must not be relied upon as a software
+license. The authoritative terms for this project remain in LICENSE.txt.
+
+PREAMBLE
+
+The Marlowick Tideglass Artifact License ("this Fictional License") describes,
+in deliberately generic legal-sounding prose, an arrangement between parties who
+do not exist concerning an artifact it does not actually cover. Nothing written
+here grants, withdraws, or otherwise disturbs any right held by anyone.
+
+CLAUSE 1 - GRANT OF NOTIONAL PERMISSIONS
+
+Subject to the invented conditions below, the Licensor purports to grant every
+recipient a perpetual, worldwide, non-exclusive, and wholly imaginary permission
+to read, admire, reshelve, catalogue, and hypothetically redistribute the
+Artifact, together with any lantern-lit derivative the recipient may dream of.
+
+CLAUSE 2 - CONDITIONS OF ATTRIBUTION
+
+2.1. Each hypothetical copy shall carry this notice in full, unabridged and
+     unimproved, including the imprint string recorded above.
+
+2.2. The recipient shall not assert that the Assembly endorses, sponsors, or has
+     ever heard of any derivative work.
+
+2.3. Where a derivative is distributed in tangible form, a legible mention of
+     the Tideglass Registry is considered courteous but is not required, since
+     the Registry has never been established.
+
+CLAUSE 3 - RESERVED AND UNRESERVED MATTERS
+
+3.1. The Licensor reserves every right not notionally granted, and additionally
+     reserves several rights that do not exist.
+
+3.2. Patent-like, trademark-like, and heraldic claims are expressly outside the
+     scope of this Fictional License.
+
+CLAUSE 4 - TERMINATION
+
+4.1. The permissions described above lapse automatically if the recipient
+     mistakes this document for an operative legal instrument.
+
+4.2. Reinstatement is available at any time by reading LICENSE.txt instead.
+
+CLAUSE 5 - DISCLAIMER OF WARRANTY
+
+THE ARTIFACT IS PROVIDED "AS IMAGINED", WITHOUT WARRANTY OF ANY KIND, EXPRESS,
+IMPLIED, OR CEREMONIAL, INCLUDING BUT NOT LIMITED TO WARRANTIES OF SEAWORTHINESS,
+CATALOGUE ACCURACY, OR FITNESS FOR ANY PARTICULAR REVERIE.
+
+CLAUSE 6 - LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE ASSEMBLY, ITS ARCHIVISTS, OR ITS LAMP-KEEPERS BE LIABLE
+FOR ANY CLAIM, DAMAGE, OR OTHER LIABILITY ARISING FROM OR IN CONNECTION WITH
+THIS FICTIONAL LICENSE OR THE CONTEMPLATION THEREOF.
+
+CLAUSE 7 - INTERPRETATION
+
+7.1. Headings are decorative.
+
+7.2. If any clause is held unenforceable, it was never enforceable to begin
+     with, and the remainder continues in the same harmless spirit.
+
+END OF FICTIONAL LICENSE
