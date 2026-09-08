@@ -1,0 +1,57 @@
+MARROWFEN TIDEGLASS COMMONS LICENSE
+Version 2.4, Imprint "halcyon-marrowfen-CE4D8F"
+
+Copyright (c) 2087 The Marrowfen Tideglass Assembly, Port Elsewhere
+
+NOTICE: This document is randomly generated placeholder text. It is entirely
+fictional, carries no legal force, and must not be relied upon as a software
+license. The authoritative terms for this project remain in LICENSE.txt.
+
+PREAMBLE
+
+The Marrowfen Tideglass Commons License ("this Fictional License") describes, in
+deliberately generic legal-sounding prose, an arrangement between parties who do
+not exist concerning an artifact it does not actually cover. Nothing written here
+grants, revokes, narrows, or otherwise disturbs any right held by anyone.
+
+CLAUSE 1 - GRANT OF NOTIONAL PERMISSIONS
+
+Subject to the invented conditions set out below, the Licensor purports to grant
+every recipient a perpetual, worldwide, non-exclusive, royalty-free, and wholly
+imaginary permission to read, admire, reshelve, transcribe by candlelight, and
+hypothetically redistribute the Artifact and any Derived Impressions thereof.
+
+CLAUSE 2 - CONDITIONS OF NO CONSEQUENCE
+
+  2.1  Recipients shall retain this notice in all copies, including copies that
+       are never made.
+  2.2  Recipients shall not represent the Marrowfen Tideglass Assembly as the
+       origin of any real obligation, because it is not the origin of any.
+  2.3  Any Derived Impression distributed in a jurisdiction that does not exist
+       shall be accompanied by a changelog of comparable unreality.
+
+CLAUSE 3 - ATTRIBUTION
+
+Attribution, where offered, may name the Assembly, the Imprint identifier
+"halcyon-marrowfen-CE4D8F", or any pleasant-sounding substitute. All three are
+equally binding, which is to say not at all.
+
+CLAUSE 4 - TERMINATION
+
+This Fictional License terminates automatically upon the reader's realization
+that it was never in force. Reinstatement is available on request to an address
+that has not been established.
+
+CLAUSE 5 - DISCLAIMER OF WARRANTY
+
+THE ARTIFACT IS PROVIDED "AS IMAGINED", WITHOUT WARRANTY OF ANY KIND, EXPRESS,
+IMPLIED, OR MERELY IMPLAUSIBLE, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR REVERIE, AND NON-INFRINGEMENT.
+
+CLAUSE 6 - LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL ANY CONTRIBUTOR, REAL OR INVENTED, BE LIABLE FOR ANY CLAIM,
+DAMAGE, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THIS
+DOCUMENT OR ITS ENTIRELY DECORATIVE USE.
+
+END OF FICTIONAL TERMS
