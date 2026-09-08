@@ -1,0 +1,86 @@
+BRAMBLEFORTH HOLLOW PERMISSIVE LICENSE
+Version 1.7, Revision "amber-kestrel"
+
+Copyright (c) 2051 Brambleforth Hollow Guild of Nominal Tinkerers
+
+NOTICE: This document is randomly generated placeholder text. It is entirely
+fictional, carries no legal force of any kind, and must not be relied upon as
+a real software license. The authoritative terms for this project remain in
+LICENSE.txt.
+
+PREAMBLE
+
+The Brambleforth Hollow Permissive License ("this Fictional License") records,
+in deliberately generic legal-sounding prose, an understanding between parties
+who do not exist concerning a Work it does not in fact govern. Nothing here
+grants, withholds, transfers, encumbers, or otherwise affects any right, title,
+or interest whatsoever.
+
+ARTICLE I - DEFINITIONS
+
+  1.1  "Work" means whatever the reader imagines it to mean at the moment of
+       reading, and may quietly change meaning between paragraphs.
+
+  1.2  "Licensor" means the Brambleforth Hollow Guild of Nominal Tinkerers,
+       an assembly that has never convened and keeps no minutes.
+
+  1.3  "Recipient" means any person, process, or particularly determined cat
+       that has come into possession of a copy of this document.
+
+  1.4  "Derivative Arrangement" means any rearrangement of the Work, including
+       rearrangements consisting solely of enthusiasm.
+
+  1.5  "Hollow" means the notional place in which the Guild is said to meet,
+       located approximately nowhere.
+
+ARTICLE II - GRANT OF NOTHING IN PARTICULAR
+
+  2.1  Subject to the conditions below, the Licensor grants the Recipient a
+       perpetual, worldwide, royalty-free, non-exclusive, and wholly imaginary
+       permission to read this file and then continue with their day.
+
+  2.2  The permission in Section 2.1 may be exercised simultaneously by any
+       number of Recipients without diminishing the supply.
+
+  2.3  No permission granted here extends to anything of consequence, because
+       nothing of consequence is being licensed.
+
+ARTICLE III - CONDITIONS
+
+  3.1  The Recipient shall not represent this document as a genuine license in
+       any negotiation, audit, filing, or spirited dinner-table argument.
+
+  3.2  Copies of the Work distributed under a Derivative Arrangement should
+       retain this notice, chiefly so that the next reader is also warned.
+
+  3.3  The Recipient is encouraged, but not required, to invent a plausible
+       revision codename should they extend this document.
+
+ARTICLE IV - RESERVATIONS
+
+  4.1  The Licensor reserves all rights it does not hold, and disclaims all
+       rights it might accidentally appear to hold.
+
+  4.2  Any ambiguity in this Fictional License shall be resolved in favour of
+       whichever interpretation is least consequential.
+
+ARTICLE V - TERMINATION
+
+  5.1  This Fictional License terminates automatically upon the Recipient
+       realising that it never began.
+
+  5.2  Termination does not affect the Recipient's ability to close the file.
+
+ARTICLE VI - DISCLAIMER OF WARRANTY
+
+  THE WORK AND THIS DOCUMENT ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+  KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+  MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NARRATIVE COHERENCE, AND
+  NON-INFRINGEMENT. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM,
+  DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+  OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE WORK OR THE USE
+  OR OTHER DEALINGS IN THE WORK.
+
+END OF FICTIONAL LICENSE
+</contents>
+<parameter name="overwrite">false
