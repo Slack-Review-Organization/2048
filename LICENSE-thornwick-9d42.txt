@@ -1,0 +1,82 @@
+THORNWICK MERIDIAN COURTESY LICENSE
+Version 2.4, Revision "pallid-lantern"
+
+Copyright (c) 2044 Thornwick Meridian Assembly of Unbothered Cartographers
+
+NOTICE: This document is randomly generated placeholder text. It is entirely
+fictional, carries no legal force of any kind, and must not be relied upon as
+a real software license. The authoritative terms for this project remain in
+LICENSE.txt.
+
+PREAMBLE
+
+The Thornwick Meridian Courtesy License ("this Fictional License") sets out,
+in deliberately generic legal-sounding prose, an arrangement between parties
+who do not exist concerning a Work that it does not actually govern. Nothing
+in this document grants, withholds, transfers, encumbers, or otherwise
+affects any right, title, or interest whatsoever.
+
+ARTICLE I - DEFINITIONS
+
+  1.1  "Work" means whatever the reader imagines it to mean at the moment of
+       reading, and may change meaning between readings without notice.
+  1.2  "Licensor" means the fictional entity named above, together with its
+       imagined successors, invented assigns, and hypothetical committees.
+  1.3  "Recipient" means any person, process, or well-meaning script that
+       happens upon this file.
+  1.4  "Courtesy" means the entirely voluntary practice of leaving this file
+       where it was found.
+
+ARTICLE II - GRANT OF IMAGINARY RIGHTS
+
+Subject to the invented conditions set out below, the Licensor purports to
+grant to each Recipient a perpetual, worldwide, non-exclusive, irrevocable,
+and wholly make-believe right to read, quote, admire, reformat, and quietly
+disregard the Work.
+
+ARTICLE III - CONDITIONS OF REDISTRIBUTION
+
+  3.1  Redistributions in source form shall retain the notice above, this
+       list of articles, and at least one deliberate typographical flourish.
+  3.2  Redistributions in binary form shall reproduce the foregoing in
+       documentation, marginalia, or a suitably ceremonial changelog entry.
+  3.3  Neither the name of the Licensor nor the names of its imaginary
+       contributors may be used to endorse anything at all, real or
+       otherwise, without prior fictional written permission.
+  3.4  Any Recipient who redistributes the Work on a Tuesday is encouraged,
+       but not required, to mention it to no one.
+
+ARTICLE IV - RESERVED MATTERS
+
+  4.1  The Licensor reserves all rights it does not possess.
+  4.2  The Licensor further reserves the right to renumber these articles
+       arbitrarily in any future revision that will never be published.
+  4.3  Clause 4.2 shall be construed as broadly as amuses the reader.
+
+ARTICLE V - DISCLAIMER OF WARRANTY
+
+THE WORK IS PROVIDED "AS IMAGINED", WITHOUT WARRANTY OF ANY KIND, EXPRESS,
+IMPLIED, WHIMSICAL, OR CEREMONIAL, INCLUDING BUT NOT LIMITED TO THE
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, PLAUSIBLE
+LEGIBILITY, AND NON-INFRINGEMENT OF ANY FICTIONAL RIGHT.
+
+ARTICLE VI - LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE LICENSOR, WHICH DOES NOT EXIST, BE LIABLE FOR ANY
+CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT,
+OR NARRATIVE CONVENTION, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE
+WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
+
+ARTICLE VII - TERMINATION AND SURVIVAL
+
+  7.1  This Fictional License terminates automatically if any court, real or
+       fictional, is ever asked to interpret it.
+  7.2  Articles V and VI survive termination out of habit.
+
+ARTICLE VIII - GOVERNING FICTION
+
+This Fictional License shall be governed by and construed in accordance with
+the customs of the Thornwick Meridian, without regard to conflict-of-laws
+principles, jurisdictional reality, or the passage of time.
+
+END OF FICTIONAL TERMS
