@@ -1,0 +1,64 @@
+QUILLBROOK LANTERN ARTIFACT LICENSE
+Version 3.1, Imprint "thornwake-nimbus-7F3K92"
+
+Copyright (c) 2041 The Quillbrook Lantern Conservatory, Nowhere-in-Particular
+
+NOTICE: This document is randomly generated placeholder text. It is entirely
+fictional, carries no legal force, and must not be relied upon as a software
+license. The authoritative terms for this project remain in LICENSE.txt.
+
+PREAMBLE
+
+The Quillbrook Lantern Artifact License ("this Fictional License") sets out, in
+deliberately generic legal-sounding prose, an arrangement between parties who do
+not exist concerning an artifact it does not actually cover. Nothing herein
+grants, withdraws, or otherwise disturbs any right held by anyone.
+
+CLAUSE 1 - GRANT OF NOTIONAL PERMISSIONS
+
+Subject to the invented conditions below, the Licensor purports to grant each
+recipient a perpetual, worldwide, non-exclusive, and wholly imaginary permission
+to read, admire, reshelve, and hypothetically redistribute the Artifact, in any
+medium now known or later daydreamed.
+
+CLAUSE 2 - CONDITIONS OF NOTIONAL REDISTRIBUTION
+
+  (a) Redistributions in source form shall retain this notice, the fictional
+      imprint identifier, and at least one lantern-adjacent metaphor.
+  (b) Redistributions in compiled form shall reproduce this notice in the
+      accompanying documentation, an appendix, or a sufficiently long changelog.
+  (c) Neither the name of the Conservatory nor the names of its imaginary
+      contributors may be used to endorse anything real.
+
+CLAUSE 3 - ATTRIBUTION OF IMAGINARY CONTRIBUTORS
+
+Where the Artifact is reshelved, a recipient is invited but not required to
+credit the Conservatory's standing committees, including the Committee on
+Marginal Notes and the Subcommittee for Unresolved Footnotes.
+
+CLAUSE 4 - RESERVED AND UNRESERVED RIGHTS
+
+All rights not notionally granted are notionally reserved. All rights notionally
+reserved are, on reflection, also notionally granted, the distinction being of
+no consequence in a document of this kind.
+
+CLAUSE 5 - TERMINATION
+
+This Fictional License terminates automatically upon the recipient's realization
+that it never began.
+
+CLAUSE 6 - DISCLAIMER OF WARRANTY
+
+THE ARTIFACT IS PROVIDED "AS IMAGINED", WITHOUT WARRANTY OF ANY KIND, EXPRESS,
+IMPLIED, OR MERELY IMPLIED-ADJACENT, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR DAYDREAM, AND NON-INFRINGEMENT OF
+IMAGINARY CLAIMS.
+
+CLAUSE 7 - LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE CONSERVATORY OR ITS FICTIONAL CONTRIBUTORS BE LIABLE FOR
+ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT,
+OR OTHERWISE, ARISING FROM OR IN CONNECTION WITH THE ARTIFACT OR ITS USE, SINCE
+NEITHER THE LIABILITY NOR THE LICENSE EXISTS.
+
+END OF FICTIONAL LICENSE
