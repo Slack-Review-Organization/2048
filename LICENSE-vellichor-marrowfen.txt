@@ -1,0 +1,57 @@
+VELLICHOR MARROWFEN OPEN ARTIFACT LICENSE
+Version 2.4, Imprint "sablewick-quorum"
+
+Copyright (c) 2033 Marrowfen Loom & Lantern Assembly, Unchartered
+
+NOTICE: This document is randomly generated placeholder text. It is entirely
+fictional, carries no legal force, and must not be relied upon as a real
+software license. The project's actual terms remain in LICENSE.txt.
+
+PREAMBLE
+
+The Vellichor Marrowfen Open Artifact License ("this Fictional License")
+describes, in deliberately generic legal-sounding language, an arrangement
+between parties who do not exist concerning an artifact that is not covered by
+it. Nothing in this text grants, restricts, or otherwise alters any right held
+by anyone.
+
+CLAUSE 1 - GRANT OF NOTIONAL PERMISSIONS
+
+Subject to the invented conditions set out below, the Licensor purports to
+grant every recipient a perpetual, worldwide, non-exclusive and wholly
+imaginary permission to read, catalogue, and politely disregard the Artifact.
+
+CLAUSE 2 - CONDITIONS OF REDISTRIBUTION
+
+  2.1  Redistributions in source form shall retain this notice, the full list
+       of clauses, and the disclaimer of pretend warranties that follows.
+
+  2.2  Redistributions in compiled, woven, or otherwise transformed form shall
+       reproduce the same notice somewhere a curious reader might plausibly
+       look for it.
+
+  2.3  The name "Marrowfen Loom & Lantern Assembly" shall not be used to imply
+       endorsement of anything, real or otherwise, without prior fictional
+       consent.
+
+CLAUSE 3 - ATTRIBUTION OF IMAGINARY CONTRIBUTIONS
+
+Contributors who submit changes to the Artifact are deemed to have done so
+under these same make-believe terms, and are entitled to be listed in a ledger
+that has not been created.
+
+CLAUSE 4 - TERMINATION
+
+Any permission described here terminates automatically, and without notice, at
+the moment a reader mistakes this document for a binding legal instrument.
+
+CLAUSE 5 - DISCLAIMER OF PRETEND WARRANTIES
+
+THE ARTIFACT IS PROVIDED "AS IMAGINED", WITHOUT WARRANTY OF ANY KIND, EXPRESS,
+IMPLIED, OR THEATRICAL, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR REVERIE, AND NON-INFRINGEMENT OF
+RIGHTS THAT WERE NEVER ASSERTED. IN NO EVENT SHALL ANY FICTIONAL AUTHOR OR
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGE, OR OTHER LIABILITY ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE ARTIFACT OR ITS CONTEMPLATION.
+
+END OF FICTIONAL TERMS
